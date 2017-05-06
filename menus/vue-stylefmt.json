@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Vue Stylefmt",
+        "command": "vue-stylefmt:format"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Vue Stylefmt",
+          "submenu": [
+            {
+              "label": "Format",
+              "command": "vue-stylefmt:format"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
