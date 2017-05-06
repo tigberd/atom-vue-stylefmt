@@ -1,7 +1,7 @@
 {
   "name": "vue-stylefmt",
   "main": "lib/vue-stylefmt.js",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Apply stylefmt for vue component",
   "license": "MIT",
   "repository": "https://github.com/tigberd/atom-vue-stylefmt",
