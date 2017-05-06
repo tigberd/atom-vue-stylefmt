@@ -10,9 +10,6 @@
     "email": "tigberd@gmail.com",
     "url": "https://gisthub.com/tigberd"
   },
-  "activationCommands": {
-    "atom-workspace": "vue-stylefmt:format"
-  },
   "configSchema": {
     "formatOnSave": {
       "title": "Format on Save",
